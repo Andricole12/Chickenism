@@ -490,7 +490,6 @@ label {
   display: flex;
 }
 .about-author .author-thumb {
-  background-color: #fff;
   border: 5px solid #1e2530;
   margin-right: 30px;
   padding: 5px;
