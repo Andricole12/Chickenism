@@ -249,6 +249,7 @@ label {
 }
 .page-title img {
   margin-bottom: 20px;
+  max-width: 340px;
 }
 .page-title h2 {
   font-size: 68px;
